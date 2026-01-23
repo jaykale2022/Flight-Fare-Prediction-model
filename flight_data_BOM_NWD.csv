@@ -1,0 +1,104 @@
+FlightName,FlightCode,DepartingCity,DepartingTime,ArrivingCity,ArrivingTime,Duration,Price
+AirAsia,I5 740,New Delhi,0.3,Bengaluru,1.4,155,5230
+AirAsia,I5 1534,New Delhi,2,Bengaluru,3.2,155,5235
+IndiGo,6E 2067,New Delhi,2,Bengaluru,4.55,155,5235
+IndiGo,6E 6612,New Delhi,3.3,Bengaluru,4.55,155,5236
+IndiGo,6E 6612,New Delhi,3.55,Bengaluru,6.25,155,5236
+IndiGo,6E 6612,New Delhi,4.25,Bengaluru,6.45,155,5236
+IndiGo,6E 2403,New Delhi,4.3,Bengaluru,7.1,155,5236
+IndiGo,6E 2403,New Delhi,5.35,Bengaluru,7.15,160,5236
+IndiGo,6E 308,New Delhi,5.45,Bengaluru,8.25,160,5236
+IndiGo,6E 2131,New Delhi,5.5,Bengaluru,8.35,160,5236
+IndiGo,6E 6565,New Delhi,5.5,Bengaluru,8.35,160,5236
+Air India,AI 514,New Delhi,5.5,Bengaluru,8.35,160,5236
+Air India,AI 803,New Delhi,6.1,Bengaluru,8.4,160,5240
+Air India,AI 803,New Delhi,6.1,Bengaluru,9,160,5240
+Air India,AI 504,New Delhi,6.15,Bengaluru,9,160,5240
+SpiceJet,SG 534,New Delhi,7,Bengaluru,9.05,160,5240
+SpiceJet,SG 534,New Delhi,7,Bengaluru,9.4,160,5297
+SpiceJet,SG 8143,New Delhi,7.05,Bengaluru,9.45,160,5297
+Akasa Air,QP 1350,New Delhi,7.05,Bengaluru,9.5,160,5297
+Akasa Air,QP 1350,New Delhi,7.05,Bengaluru,9.5,160,5354
+Air India,AI 813,New Delhi,7.5,Bengaluru,10,160,5354
+IndiGo,6E 2338,New Delhi,8,Bengaluru,10.35,160,5354
+Vistara,UK 813,New Delhi,8,Bengaluru,10.4,160,5354
+IndiGo,6E 781,New Delhi,8,Bengaluru,10.45,165,5354
+IndiGo,6E 2302,New Delhi,8,Bengaluru,10.45,165,5354
+IndiGo,6E 2302,New Delhi,8,Bengaluru,10.5,165,5354
+Air India,AI 502,New Delhi,8,Bengaluru,10.55,165,5354
+Air India,AI 815,New Delhi,9.1,Bengaluru,11,165,5354
+Air India,AI 807,New Delhi,9.15,Bengaluru,11.5,165,5354
+Vistara,UK 811,New Delhi,9.2,Bengaluru,12.05,165,5354
+Vistara,UK 817,New Delhi,9.4,Bengaluru,12.05,165,5368
+Vistara,UK 817,New Delhi,9.45,Bengaluru,12.3,165,5368
+IndiGo,6E 6383,New Delhi,9.5,Bengaluru,12.35,165,5400
+IndiGo,6E 2514,New Delhi,10.3,Bengaluru,12.4,165,5400
+IndiGo,6E 2487,New Delhi,10.4,Bengaluru,13.2,165,5503
+IndiGo,6E 6622,New Delhi,11.15,Bengaluru,13.35,165,5513
+Air India,AI 512,New Delhi,11.15,Bengaluru,14.05,165,5513
+Air India,AI 512,New Delhi,11.3,Bengaluru,14.05,165,5513
+IndiGo,6E 5608,New Delhi,11.3,Bengaluru,14.1,165,5513
+IndiGo,6E 6797,New Delhi,11.45,Bengaluru,14.1,165,5513
+Vistara,UK 819,New Delhi,11.45,Bengaluru,14.35,165,5552
+Air India,AI 506,New Delhi,12,Bengaluru,14.4,165,5596
+Vistara,UK 809,New Delhi,13.15,Bengaluru,14.45,165,5596
+Vistara,UK 809,New Delhi,13.15,Bengaluru,15.55,165,5596
+Vistara,UK 815,New Delhi,13.15,Bengaluru,15.55,165,5599
+Vistara,UK 801,New Delhi,13.4,Bengaluru,16.1,165,5618
+Vistara,UK 807,New Delhi,13.5,Bengaluru,16.2,165,5618
+IndiGo,6E 6247,Bengaluru,14.1,New Delhi,16.35,165,5717
+IndiGo,6E 5021,Bengaluru,14.55,New Delhi,16.45,165,5717
+IndiGo,6E 6621,Bengaluru,15.2,New Delhi,18.15,165,5717
+IndiGo,6E 5039,Bengaluru,15.3,New Delhi,18.2,165,5717
+IndiGo,6E 2174,Bengaluru,15.35,New Delhi,18.2,165,5717
+IndiGo,6E 2174,Bengaluru,16.05,New Delhi,18.35,165,5772
+IndiGo,6E 2174,Bengaluru,16.05,New Delhi,18.45,165,5776
+AirAsia,I5 1532,Bengaluru,16.45,New Delhi,18.45,165,5881
+AirAsia,I5 1532,Bengaluru,17,New Delhi,19.35,165,5881
+IndiGo,6E 735,Bengaluru,17.15,New Delhi,20,165,5992
+IndiGo,6E 2406,Bengaluru,17.15,New Delhi,20.05,165,6028
+Air India,AI 511,Bengaluru,17.4,New Delhi,20.15,165,6196
+Air India,AI 509,Bengaluru,17.5,New Delhi,20.3,165,6216
+Vistara,UK 820,Bengaluru,17.5,New Delhi,20.35,165,6216
+Vistara,UK 820,Bengaluru,18,New Delhi,20.35,165,6216
+Vistara,UK 818,Bengaluru,18,New Delhi,20.45,165,6343
+Vistara,UK 814,Bengaluru,18,New Delhi,20.45,165,6343
+Vistara,UK 814,Bengaluru,18.45,New Delhi,20.45,165,6343
+Akasa Air,QP 1359,Bengaluru,18.55,New Delhi,21.25,165,6448
+SpiceJet,SG 8136,Bengaluru,19.1,New Delhi,21.5,165,6448
+SpiceJet,SG 8136,Bengaluru,19.1,New Delhi,22.05,165,6448
+SpiceJet,SG 8198,Bengaluru,19.15,New Delhi,22.05,165,6721
+Air India,AI 804,Bengaluru,19.15,New Delhi,22.05,165,6721
+Air India,AI 503,Bengaluru,19.2,New Delhi,22.2,165,7020
+IndiGo,6E 122,Bengaluru,19.35,New Delhi,22.35,175,7020
+AirAsia,I5 741,Bengaluru,19.4,New Delhi,22.35,175,7020
+AirAsia,I5 741,Bengaluru,19.5,New Delhi,22.35,175,7020
+IndiGo,6E 2401,Bengaluru,19.5,New Delhi,22.4,175,7142
+IndiGo,6E 2053,Bengaluru,20.1,New Delhi,22.4,175,7142
+Akasa Air,QP 1405,Bengaluru,20.2,New Delhi,23.05,175,7183
+Vistara,UK 802,Bengaluru,20.2,New Delhi,23.05,175,7183
+Air India,AI 501,Bengaluru,20.35,New Delhi,23.2,175,7450
+Air India,AI 501,Bengaluru,20.4,New Delhi,23.2,175,7450
+IndiGo,6E 871,Bengaluru,20.55,New Delhi,23.2,175,7457
+Vistara,UK 868,Bengaluru,21,New Delhi,23.35,175,7498
+Air India,AI 513,Bengaluru,21,New Delhi,23.35,175,7561
+Air India,AI 505,Bengaluru,21,New Delhi,23.4,175,8233
+IndiGo,6E 861,Bengaluru,21.1,New Delhi,23.45,175,8495
+IndiGo,6E 861,Bengaluru,21.1,New Delhi,23.45,175,8495
+IndiGo,6E 869,Bengaluru,21.1,New Delhi,23.55,175,8926
+Air India,AI 507,Bengaluru,21.35,New Delhi,"00.05
+",175,10711
+Vistara,UK 810,Bengaluru,21.35,New Delhi,"00.10
+",180,10774
+Air India,AI 808,Bengaluru,21.45,New Delhi,"00.10
+",180,10774
+Vistara,UK 816,Bengaluru,22.55,New Delhi,"00.35
+",180,12445
+Vistara,UK 816,Bengaluru,22.55,New Delhi,"01.35
+",190,13021
+Akasa Air,QP 1409,New Delhi,23,Bengaluru,"01.45
+",155,13021
+IndiGo,6E 2339,Bengaluru,23.15,New Delhi,"02.10
+",195,13021
+Vistara,UK 808,Bengaluru,23.55,New Delhi,"02.40
+",205,13399
